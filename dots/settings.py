@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-n-v!!5n=!&1)th6zv2%2h5q6=fupu8%r$0uu$+c7ukkxtdsaqg
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://dots.liara.run/']
 
 
 # Application definition
